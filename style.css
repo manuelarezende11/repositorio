@@ -1,12 +1,12 @@
 main{
     background-color:aliceblue
 }
-body{
-background-color:corner-present
+body {
+background-color: bisque;
 }
 p{
     color:black
 }
 #banner{
-    width: 50%;
+    width: 100%;
 }
